@@ -42,7 +42,7 @@ Evidence: focused diff, corrected actual output, complete successful check resul
 
 ## Task 4: Document and propose
 
-Complete RUNBOOK.md with actual reproduction, cause, change, run/check commands, observed results and one testing limit. Review staged changes, make a meaningful commit and push repair branch. Open PR into main in the same assigned repository. Include problem, cause, change and actual validation in its description. Show open state and branch direction, plus final clean local working tree. Leave PR open for review.
+Complete RUNBOOK.md with actual reproduction, cause, change, run/check commands, observed results and one testing limit. Review staged changes, make a meaningful commit and push repair branch. Open PR into main in the same assigned repository. Use a useful PR title. Include problem, cause, change and actual validation in its description. Show open state and branch direction, plus final clean local working tree. Leave PR open for review.
 
 Evidence: completed runbook, staged review, commit/push, open PR with requested description/direction and clean state. No merge required.
 
