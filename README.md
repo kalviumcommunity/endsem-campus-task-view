@@ -48,4 +48,5 @@ Evidence: completed runbook, staged review, commit/push, open PR with requested 
 
 ## Submission
 
-Submit one PDF with four task sections, readable labelled screenshots and requested short answers. Capture intermediate states before continuing. Multiple screenshots per task allowed. Do not include credentials.
+Submit one PDF containing solutions for all four tasks. Organise it into Task 1 to Task 4. Include the screenshots requested in each task, with a one- or two-sentence label explaining the result and answering any requested short question. Multiple readable screenshots per task are allowed. Do not include credentials.
+
